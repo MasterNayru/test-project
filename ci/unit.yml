@@ -1,0 +1,6 @@
+run:
+  path: sh
+  args:
+    - |
+      whoami
+      env
